@@ -13,7 +13,7 @@ func factorial(n int) int {
 
 func main() {
 
-	number := 5
+	number := 15
 	fmt.Printf("Factorial of %d is %d\n", number, factorial(number))
 
 	// ...existing code...
